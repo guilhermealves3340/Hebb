@@ -1,7 +1,7 @@
 # Guilherme Alves
 
 """
-    Trainamento do um neurônio 
+    Trainamento de um neurônio 
 
 """
 
